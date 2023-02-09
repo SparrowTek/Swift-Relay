@@ -1,0 +1,11 @@
+authors = ["thomas@sparrowtek.com"]
+description = "Nostr Relay built for Swift on Fastly"
+language = "swift"
+manifest_version = 2
+name = "Relay"
+
+[local_server]
+  [local_server.dictionaries]
+    [local_server.dictionaries.env]
+      file = "env.json"
+      format = "json"
