@@ -10,6 +10,15 @@
       }
     },
     {
+      "identity" : "mongodb",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-cloud/MongoDB",
+      "state" : {
+        "revision" : "0d5b903bcc7ee46252bb106f26915063029a75c5",
+        "version" : "1.0.0"
+      }
+    },
+    {
       "identity" : "swift-crypto",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swift-cloud/swift-crypto",
